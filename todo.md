@@ -2,7 +2,9 @@ Les "raccourcis" pris dans le cadre du projet:
 
   - Ecriture spontanée des fonctions, non existence de classes. 
   
-  - Déploiement SPA manquant, fenêtre terminale recensant les résultats intermédiaires et finaux.
+  - SPA manquante, fenêtre terminale recensant les résultats intermédiaires et finaux.
+  
+  - Code commenté partiellement
   
 Les amélioration effectuées:
 
