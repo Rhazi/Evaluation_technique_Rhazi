@@ -1,4 +1,4 @@
-Les points pouvant être améliorés dans le projet:
+Les points pouvant être améliorés dans le cadre du projet:
 
  - Rajouter une classe "queue"
 
