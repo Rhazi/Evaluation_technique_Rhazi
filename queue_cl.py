@@ -1,6 +1,6 @@
 "variables globales"
 queue = []
-queueTaille = 5 #fixer la valeur max de queue
+queueTaille = 6 #fixer la valeur max de queue
 queueElt = 0
 
 def queueSize():
