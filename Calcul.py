@@ -106,13 +106,9 @@ def ChunkString(monString):
 
 
 def menu():
-    """Fonction applicative"""
+    "Fonction applicative"
 
-    print("""
-            Veuillez rentrer votre operation au format RPN
-            -------------------------------------
-
-            -------------------------------------""")
+    print("Veuillez rentrer votre operation au format RPN")
     while True:
         try:
             monString = ""
@@ -121,7 +117,7 @@ def menu():
             if monString == "exit":
                 break
             print("Votre selection", monString)
-            valFinale = ChunkString(monString)#call string parser to add to stack
+            valFinale = ChunkString(monString)
             StringSortie += monString + " est " + str(valFinale)
             print(StringSortie)
         except KeyboardInterrupt:
